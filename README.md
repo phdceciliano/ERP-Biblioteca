@@ -75,7 +75,8 @@ recomendador.adicionarSimilaridade(livro1, livro2, 1.5);
 
 List<Livro> recomendados = recomendador.recomendarLivros(livro1);
 
-📌 Conclusão
+📌## Conclusão
+
 Este projeto foi desenvolvido por Pedro Henrique Ceciliano, junto ao time de desenvolvimento PUCPR como parte dos estudos em Análise e Desenvolvimento de Sistemas e tem como objetivo explorar conceitos avançados de programação, algoritmos e ordenação e estrutura de dados.
 
 🔗 Contato
